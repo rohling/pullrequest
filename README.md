@@ -6,3 +6,4 @@ Lista de Pull Request
 <h1> Maikon Icaro</h1>
 <h1> Edson </h1>
 <h1> Éric Luís De Santi Maciel </h1>
+<h1>Samira Talau</h1>
