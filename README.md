@@ -11,4 +11,4 @@ Lista de Pull Request
 <h1> Natanael </h1>
 <h1> Julia Caroline </h1>
 <h1> Ketlin</h1>
-<h1> Abimael de Oliveira </h1>
+<h1>Samira</h1>
