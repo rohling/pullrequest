@@ -15,3 +15,4 @@ Lista de Pull Request
 <h1>André</h1>
 <h1> Guilherme</h1>
 <h1>Samira Talau</h1>
+<h1> Tiago </h1>
